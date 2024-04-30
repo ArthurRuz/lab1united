@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Artur\\Desktop\\lab1ooad\\lab1ooad\\",
+  "WorkspaceRootPath": "C:\\Users\\zarma\\Documents\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u041E\u0410\u0438\u0414\\\u041B\u04201\\newproject\\LrWithArthur\\lab1united\\lab1ooad\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD9B8082-4248-4310-8C20-2DFB58CC1A17}|lab1ooad\\lab1ooad.csproj|c:\\users\\artur\\desktop\\lab1ooad\\lab1ooad\\lab1ooad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BD9B8082-4248-4310-8C20-2DFB58CC1A17}|lab1ooad\\lab1ooad.csproj|c:\\users\\zarma\\documents\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u043E\u0430\u0438\u0434\\\u043B\u04401\\newproject\\lrwitharthur\\lab1united\\lab1ooad\\lab1ooad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD9B8082-4248-4310-8C20-2DFB58CC1A17}|lab1ooad\\lab1ooad.csproj|solutionrelative:lab1ooad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Artur\\Desktop\\lab1ooad\\lab1ooad\\lab1ooad\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\zarma\\Documents\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u041E\u0410\u0438\u0414\\\u041B\u04201\\newproject\\LrWithArthur\\lab1united\\lab1ooad\\lab1ooad\\Program.cs",
               "RelativeDocumentMoniker": "lab1ooad\\Program.cs",
-              "ToolTip": "C:\\Users\\Artur\\Desktop\\lab1ooad\\lab1ooad\\lab1ooad\\Program.cs",
+              "ToolTip": "C:\\Users\\zarma\\Documents\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u041E\u0410\u0438\u0414\\\u041B\u04201\\newproject\\LrWithArthur\\lab1united\\lab1ooad\\lab1ooad\\Program.cs",
               "RelativeToolTip": "lab1ooad\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T08:15:57.791Z",
               "EditorCaption": ""

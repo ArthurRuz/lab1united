@@ -10,6 +10,8 @@ namespace lab1ooad
     {
         static void Main(string[] args)
         {
+            int i = 3 + 3;
+            Console.WriteLine(i);
         }
     }
 }
